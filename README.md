@@ -8,7 +8,7 @@ A secure, fast, and convenient way for users to log into your app, and for your 
 * **CodeIgniter Web Framework**
 -- [x] CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.
 [CodeIgniter Download Link](https://codeigniter.com/)
-* ** Facebook Developer App**
+* **Facebook Developer App**
 -- [x] Every third party app that integrates Facebook login needs to create a Facebook developer app. A developer app helps Facebook track the third party app and provides additional configuration options.
 [Facebook for Developers](https://developers.facebook.com/docs/apps/)
 ### Step 1. **Download and Install XAMPP**

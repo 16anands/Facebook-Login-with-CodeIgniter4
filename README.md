@@ -12,7 +12,7 @@ A secure, fast, and convenient way for users to log into your app, and for your 
 -- [x] Every third party app that integrates Facebook login needs to create a Facebook developer app. A developer app helps Facebook track the third party app and provides additional configuration options.
 [Facebook for Developers](https://developers.facebook.com/docs/apps/)
 ### Step 1. **Download and Install XAMPP**
-### Step 1. **Creating a Facebook Developer App**
+### Step 2. **Creating a Facebook Developer App**
 * Visit the [Facebook Developer Apps Page](https://developers.facebook.com/apps/) and click _Add a New App_. Select _Website_ as the platform.
 * Enter an app name and click _Create new Facebook App ID_.
 * Select your app category and click  _Create App ID_.
@@ -23,7 +23,7 @@ A secure, fast, and convenient way for users to log into your app, and for your 
 * Place it in _**C:\xampp\htdocs**_
 * Open  C:\xampp\htdocs\Facebook_Login\app\Views\home.php
 * Replace **'APP ID'** with your facebook _**App ID**_.
-* Open web browser and type _[http://localhost/Facebook_login/public/]
+* Open web browser and type _[http://localhost/Facebook-Login-with-CodeIgniter*/public/]
 * Click _**Log in With Facebook**_ button.
 * Enter your Credentials which you used to create the Developer Account on facebook.
 * You will see your Name and Email on the page, then click _**Logout**_.
@@ -31,7 +31,7 @@ A secure, fast, and convenient way for users to log into your app, and for your 
 * Download CodeIgniter Web Framework https://github.com/codeigniter4/framework/archive/v4.0.2.zip
 * Extract the folder and place it in _**C:\xampp\htdocs**_
 * Rename the folder to something simpler like : _Facebook_login_
-* Open web browser and type _[http://localhost/Facebook_login/public/](http://localhost/Facebook_login/public/)_
+* Open web browser and type _[http://localhost/Facebook-Login-with-CodeIgniter*/public/](http://localhost/Facebook_login/public/)_
 * CodeIgniter Welcome page will load.
 * Open _C:\xampp\htdocs\Facebook_Login\app\Controllers\Home.php_
 * Change the _View_ name to _**home**_.

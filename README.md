@@ -23,7 +23,7 @@ A secure, fast, and convenient way for users to log into your app, and for your 
 * Place it in _**C:\xampp\htdocs**_
 * Open  C:\xampp\htdocs\Facebook_Login\app\Views\home.php
 * Replace **'APP ID'** with your facebook _**App ID**_.
-* Open web browser and type _[http://localhost/Facebook-Login-with-CodeIgniter*/public/]
+* Open web browser and type _[http://localhost/Facebook-Login-with-CodeIgniter-1.0.0/public/]
 * Click _**Log in With Facebook**_ button.
 * Enter your Credentials which you used to create the Developer Account on facebook.
 * You will see your Name and Email on the page, then click _**Logout**_.
@@ -31,11 +31,11 @@ A secure, fast, and convenient way for users to log into your app, and for your 
 * Download CodeIgniter Web Framework https://github.com/codeigniter4/framework/archive/v4.0.2.zip
 * Extract the folder and place it in _**C:\xampp\htdocs**_
 * Rename the folder to something simpler like : _Facebook_login_
-* Open web browser and type _[http://localhost/Facebook-Login-with-CodeIgniter*/public/](http://localhost/Facebook-Login-with-CodeIgniter*/public/)_
+* Open web browser and type _[http://localhost/Facebook-Login-with-CodeIgniter-1.0.0/public/](http://localhost/Facebook-Login-with-CodeIgniter-1.0.0/public/)_
 * CodeIgniter Welcome page will load.
-* Open _C:\xampp\htdocs\Facebook-Login-with-CodeIgniter*\app\Controllers\Home.php_
+* Open _C:\xampp\htdocs\Facebook-Login-with-CodeIgniter-1.0.0\app\Controllers\Home.php_
 * Change the _View_ name to _**home**_.
-* Open  C:\xampp\htdocs\Facebook-Login-with-CodeIgniter*\app\Views
+* Open  C:\xampp\htdocs\Facebook-Login-with-CodeIgniter-1.0.0\app\Views
 * Create a new file named _**home.php**_
 * Add the following code :
 ```php

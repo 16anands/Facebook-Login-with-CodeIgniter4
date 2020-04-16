@@ -31,11 +31,11 @@ A secure, fast, and convenient way for users to log into your app, and for your 
 * Download CodeIgniter Web Framework https://github.com/codeigniter4/framework/archive/v4.0.2.zip
 * Extract the folder and place it in _**C:\xampp\htdocs**_
 * Rename the folder to something simpler like : _Facebook_login_
-* Open web browser and type _[http://localhost/Facebook-Login-with-CodeIgniter*/public/](http://localhost/Facebook_login/public/)_
+* Open web browser and type _[http://localhost/Facebook-Login-with-CodeIgniter*/public/](http://localhost/Facebook-Login-with-CodeIgniter*/public/)_
 * CodeIgniter Welcome page will load.
-* Open _C:\xampp\htdocs\Facebook_Login\app\Controllers\Home.php_
+* Open _C:\xampp\htdocs\Facebook-Login-with-CodeIgniter*\app\Controllers\Home.php_
 * Change the _View_ name to _**home**_.
-* Open  C:\xampp\htdocs\Facebook_Login\app\Views
+* Open  C:\xampp\htdocs\Facebook-Login-with-CodeIgniter*\app\Views
 * Create a new file named _**home.php**_
 * Add the following code :
 ```php
